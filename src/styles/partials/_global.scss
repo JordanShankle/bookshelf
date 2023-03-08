@@ -1,0 +1,40 @@
+// Partials
+@use "./variables" as *;
+@use "./mixins" as *;
+@use "./typography";
+
+// Resets
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: $font-stack;
+}
+
+body {
+  font-size: 1.6rem;
+  margin: 0;
+}
+
+// Loading
+.loading {
+  font-size: 5rem;
+  margin: 2.5rem;
+  padding-top: 5rem;
+  display: flex;
+  justify-content: center;
+  color: $brainflix-dark-blue;
+
+  @include tablet {
+    font-size: 10rem;
+  }
+
+  @include desktop {
+    padding-top: 10rem;
+    font-size: 12rem;
+  }
+}
