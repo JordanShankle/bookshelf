@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "category": "Spirituality",
+    "pages": 236,
+    "summary": "This is a summary of The Power of Now by Eckhart Tolle.",
+    "rating": 3.5
+  },
+  {
+    "id": 2,
+    "title": "Limitless",
+    "author": "Jim Kwik",
+    "category": "Education",
+    "pages": 343,
+    "summary": "This is a summary of Limitless by Jim Kwik.",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "The Four Agreements",
+    "author": "Miguel Ruiz",
+    "category": "Spirituality",
+    "pages": 168,
+    "summary": "This is a summary of The Four Agreements by Miguel Ruiz.",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self-Growth",
+    "pages": 319,
+    "summary": "This is a summary of Atomic Habits by James Clear.",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "category": "Self-Growth",
+    "pages": 319,
+    "summary": "This is a summary of The Almanack of Naval Ravikant by Eric Jorgenson.",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "title": "Brief Answers to the Big Questions",
+    "author": "Stephen Hawking",
+    "category": "Science",
+    "pages": 230,
+    "summary": "This is a summary of Brief Answers to the Big Questions by Stephen Hawking.",
+    "rating": 5
+  }
+]
