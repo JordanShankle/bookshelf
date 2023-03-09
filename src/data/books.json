@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
+    "image": "images/the-power-of-now.jpeg",
     "title": "The Power of Now",
     "author": "Eckhart Tolle",
     "category": "Spirituality",
@@ -10,6 +11,7 @@
   },
   {
     "id": "2",
+    "image": "images/limitless.jpeg",
     "title": "Limitless",
     "author": "Jim Kwik",
     "category": "Education",
@@ -19,6 +21,7 @@
   },
   {
     "id": "3",
+    "image": "images/the-four-agreements.jpeg",
     "title": "The Four Agreements",
     "author": "Miguel Ruiz",
     "category": "Spirituality",
@@ -28,6 +31,7 @@
   },
   {
     "id": "4",
+    "image": "images/atomic-habits.jpeg",
     "title": "Atomic Habits",
     "author": "James Clear",
     "category": "Self-Growth",
@@ -37,6 +41,7 @@
   },
   {
     "id": "5",
+    "image": "images/the-almanack-of-naval-ravikant.jpeg",
     "title": "The Almanack of Naval Ravikant",
     "author": "Eric Jorgenson",
     "category": "Self-Growth",
@@ -46,6 +51,7 @@
   },
   {
     "id": "6",
+    "image": "images/brief-answers-to-the-big-questions.jpeg",
     "title": "Brief Answers to the Big Questions",
     "author": "Stephen Hawking",
     "category": "Science",
