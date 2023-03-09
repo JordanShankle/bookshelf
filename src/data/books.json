@@ -58,5 +58,45 @@
     "pages": "230",
     "summary": "This is a summary of Brief Answers to the Big Questions by Stephen Hawking.",
     "rating": "5"
+  },
+  {
+    "id": "7",
+    "image": "images/the-daily-stoic.jpeg",
+    "title": "The Daily Stoic",
+    "author": "Ryan Holiday",
+    "category": "Philosophy",
+    "pages": "416",
+    "summary": "This is a summary of Brief Answers to the The Daily Stoic by Ryan Holiday.",
+    "rating": "4"
+  },
+  {
+    "id": "8",
+    "image": "images/hard-times-create-strong-men.jpeg",
+    "title": "Hard Times Create Strong Men",
+    "author": "Stefan Aarnio",
+    "category": "Self-Growth",
+    "pages": "432",
+    "summary": "This is a summary of Hard Times Create Strong Men by Stefan Aarnio.",
+    "rating": "3.5"
+  },
+  {
+    "id": "9",
+    "image": "images/crime-and-punishment.jpeg",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "category": "Philosophy",
+    "pages": "671",
+    "summary": "This is a summary of Crime and Punishment by Fyodor Dostoevsky.",
+    "rating": "5"
+  },
+  {
+    "id": "10",
+    "image": "images/money-master-the-game.jpeg",
+    "title": "Money Master the Game: 7 Simple Steps to Financial Freedom",
+    "author": "Tony Robbins",
+    "category": "Finance",
+    "pages": "688",
+    "summary": "This is a summary of Money Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins.",
+    "rating": "4"
   }
 ]
