@@ -24,11 +24,11 @@ const App = () => {
   const filterBooks = (category) => {
 
     if (category === 'all') {
-      setBooks(books);
+      setBooks(booksData);
       return;
     }
 
-    const newBooks = books.filter((book) => book.category === category)
+    const newBooks = booksData.filter((book) => book.category === category)
     setBooks(newBooks)
   }
 
