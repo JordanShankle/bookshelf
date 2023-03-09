@@ -1,0 +1,40 @@
+// Partials
+@use "../../styles/partials/global" as *;
+@use "../../styles/partials/variables" as *;
+@use "../../styles/partials/mixins" as *;
+
+.book {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+  border: 0.1rem solid whitesmoke;
+  border-radius: 0.5rem;
+  line-height: 2.5rem;
+  color: white;
+
+  &__title {
+    text-align: center;
+    font-size: 2.4rem;
+    margin: 0;
+    padding: 0.5rem;
+    width: 100%;
+    background-color: white;
+    color: lightslategray;
+}
+
+&__image {
+    max-width: 25rem;
+    padding: 0 2.0rem 2.0rem 2.0rem;
+
+    &__container {
+        display: flex;
+        justify-content: center;
+        background-color: white;
+    }
+
+  }
+}
+
+span {
+    padding-left: 1.0rem;
+}

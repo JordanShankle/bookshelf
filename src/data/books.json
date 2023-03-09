@@ -1,56 +1,62 @@
 [
   {
-    "id": 1,
+    "id": "1",
+    "image": "images/the-power-of-now.jpeg",
     "title": "The Power of Now",
     "author": "Eckhart Tolle",
     "category": "Spirituality",
-    "pages": 236,
+    "pages": "236",
     "summary": "This is a summary of The Power of Now by Eckhart Tolle.",
-    "rating": 3.5
+    "rating": "3.5"
   },
   {
-    "id": 2,
+    "id": "2",
+    "image": "images/limitless.jpeg",
     "title": "Limitless",
     "author": "Jim Kwik",
     "category": "Education",
-    "pages": 343,
+    "pages": "343",
     "summary": "This is a summary of Limitless by Jim Kwik.",
-    "rating": 4.5
+    "rating": "4.5"
   },
   {
-    "id": 3,
+    "id": "3",
+    "image": "images/the-four-agreements.jpeg",
     "title": "The Four Agreements",
     "author": "Miguel Ruiz",
     "category": "Spirituality",
-    "pages": 168,
+    "pages": "168",
     "summary": "This is a summary of The Four Agreements by Miguel Ruiz.",
-    "rating": 4
+    "rating": "4"
   },
   {
-    "id": 4,
+    "id": "4",
+    "image": "images/atomic-habits.jpeg",
     "title": "Atomic Habits",
     "author": "James Clear",
     "category": "Self-Growth",
-    "pages": 319,
+    "pages": "319",
     "summary": "This is a summary of Atomic Habits by James Clear.",
-    "rating": 4.5
+    "rating": "4.5"
   },
   {
-    "id": 5,
+    "id": "5",
+    "image": "images/the-almanack-of-naval-ravikant.jpeg",
     "title": "The Almanack of Naval Ravikant",
     "author": "Eric Jorgenson",
     "category": "Self-Growth",
-    "pages": 319,
+    "pages": "244",
     "summary": "This is a summary of The Almanack of Naval Ravikant by Eric Jorgenson.",
-    "rating": 5
+    "rating": "5"
   },
   {
-    "id": 6,
+    "id": "6",
+    "image": "images/brief-answers-to-the-big-questions.jpeg",
     "title": "Brief Answers to the Big Questions",
     "author": "Stephen Hawking",
     "category": "Science",
-    "pages": 230,
+    "pages": "230",
     "summary": "This is a summary of Brief Answers to the Big Questions by Stephen Hawking.",
-    "rating": 5
+    "rating": "5"
   }
 ]
