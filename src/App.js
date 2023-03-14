@@ -4,12 +4,14 @@ import '../src/styles/App.scss';
 // Hooks
 import { useState } from 'react';
 
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
 // Data
 import booksData from '../src/data/books.json';
 
 // Components
 import Categories from './components/Categories/Categories';
-import Books from './components/Books/Books';
+import BookList from './components/BookList/BookList';
 
 
 const allCategories = ['all', ...new Set(booksData.map((book) => book.category))];
@@ -43,7 +45,7 @@ const App = () => {
       </div>
 
       <Categories categories={categories} filterBooks={filterBooks}  />
-      <Books books={books} />
+      <BookList books={books} />
 
 
     </main>

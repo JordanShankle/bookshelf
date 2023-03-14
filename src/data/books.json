@@ -7,7 +7,8 @@
     "category": "Spirituality",
     "pages": "236",
     "summary": "This is a summary of The Power of Now by Eckhart Tolle.",
-    "rating": "3.5"
+    "rating": "3.5",
+    "url": "https://www.goodreads.com/book/show/6708.The_Power_of_Now"
   },
   {
     "id": "2",
@@ -17,7 +18,8 @@
     "category": "Education",
     "pages": "343",
     "summary": "This is a summary of Limitless by Jim Kwik.",
-    "rating": "4.5"
+    "rating": "4.5",
+    "url": "https://www.goodreads.com/book/show/49994260-limitless?ref=nav_sb_ss_1_8"
   },
   {
     "id": "3",
@@ -27,7 +29,8 @@
     "category": "Spirituality",
     "pages": "168",
     "summary": "This is a summary of The Four Agreements by Miguel Ruiz.",
-    "rating": "4"
+    "rating": "4",
+    "url": "https://www.goodreads.com/book/show/6596.The_Four_Agreements?ref=nav_sb_ss_1_13"
   },
   {
     "id": "4",
@@ -37,7 +40,8 @@
     "category": "Self-Growth",
     "pages": "319",
     "summary": "This is a summary of Atomic Habits by James Clear.",
-    "rating": "4.5"
+    "rating": "4.5",
+    "url": "https://www.goodreads.com/book/show/40121378-atomic-habits?ref=nav_sb_ss_1_10"
   },
   {
     "id": "5",
@@ -47,7 +51,8 @@
     "category": "Self-Growth",
     "pages": "244",
     "summary": "This is a summary of The Almanack of Naval Ravikant by Eric Jorgenson.",
-    "rating": "5"
+    "rating": "5",
+    "url": "https://www.goodreads.com/book/show/54898389-the-almanack-of-naval-ravikant?ref=nav_sb_ss_1_16"
   },
   {
     "id": "6",
@@ -57,7 +62,8 @@
     "category": "Science",
     "pages": "230",
     "summary": "This is a summary of Brief Answers to the Big Questions by Stephen Hawking.",
-    "rating": "5"
+    "rating": "5",
+    "url": "https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions?from_search=true&from_srp=true&qid=uoeDlrWGgT&rank=1"
   },
   {
     "id": "7",
@@ -67,7 +73,8 @@
     "category": "Philosophy",
     "pages": "416",
     "summary": "This is a summary of Brief Answers to the The Daily Stoic by Ryan Holiday.",
-    "rating": "4"
+    "rating": "4",
+    "url": "https://www.goodreads.com/book/show/29093292-the-daily-stoic?ref=nav_sb_ss_1_12"
   },
   {
     "id": "8",
@@ -77,7 +84,8 @@
     "category": "Self-Growth",
     "pages": "432",
     "summary": "This is a summary of Hard Times Create Strong Men by Stefan Aarnio.",
-    "rating": "3.5"
+    "rating": "3.5",
+    "url": "https://www.goodreads.com/book/show/41677385-hard-times-create-strong-men?ref=nav_sb_ss_1_18"
   },
   {
     "id": "9",
@@ -87,7 +95,8 @@
     "category": "Philosophy",
     "pages": "671",
     "summary": "This is a summary of Crime and Punishment by Fyodor Dostoevsky.",
-    "rating": "5"
+    "rating": "5",
+    "url": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment?ref=nav_sb_ss_1_16"
   },
   {
     "id": "10",
@@ -97,6 +106,7 @@
     "category": "Finance",
     "pages": "688",
     "summary": "This is a summary of Money Master the Game: 7 Simple Steps to Financial Freedom by Tony Robbins.",
-    "rating": "4"
+    "rating": "4",
+    "url": "https://www.goodreads.com/book/show/23014006-money-master-the-game?ref=nav_sb_ss_1_21"
   }
 ]
