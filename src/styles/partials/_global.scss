@@ -19,6 +19,28 @@ body {
   margin: 0;
 }
 
+// Buttons
+.btn {
+  background: white;
+  color: lightslategray;
+  border-color: transparent;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  padding: 1.2rem 1.0rem;
+  display: inline-block;
+  transition: all 0.3s linear;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  display: inline-block;
+
+  &:hover {
+    background-color: lightslategray;
+    color: white;
+  }
+}
+
+
+
 // Loading
 .loading {
   font-size: 5rem;
