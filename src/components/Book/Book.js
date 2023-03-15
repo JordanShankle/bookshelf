@@ -2,6 +2,9 @@ import { Link } from "react-router-dom";
 
 const Book = ({ id, image, title, author, category, pages, summary, rating, url }) => {
 
+    // const navigate = useNavigate();
+
+
 
     return (
         <article key={id} className='book'>
@@ -15,14 +18,17 @@ const Book = ({ id, image, title, author, category, pages, summary, rating, url 
 
 
             <span className="book__author" >By: {author}</span>
-            <span className="book__category" >Genre: {category}</span>
-            <span className="book__pages" >Pages: {pages}</span>
-            <span className="book__rating" >Rating: {rating}</span>
             <span className="book__summary" >{summary}</span>
+            {/* <span className="book__category" >Genre: {category}</span> */}
+            {/* <span className="book__pages" >Pages: {pages}</span> */}
+            {/* <span className="book__rating" >Rating: {rating}</span> */}
 
-            {/* <Link to={id} className='' >
+
+            {/* <button className="btn-details" onClick={() => navigate(`/book/${id}`) } >details</button> */}
+            
+            <Link to={`/book/${id}`} className='btn-details' >
                 details
-            </Link> */}
+            </Link>
 
         </article>
     );

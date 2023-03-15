@@ -1,0 +1,20 @@
+.btn-details {
+  background: white;
+  color: lightslategray;
+  border-color: transparent;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  padding: 0.7rem;
+  display: inline-block;
+  transition: all 0.3s linear;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  width: 10.0rem;
+  margin: 0.5rem;
+//   display: inline-block;
+
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}

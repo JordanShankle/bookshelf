@@ -10,8 +10,6 @@ import { useState } from 'react';
 
 
 const allCategories = ['all', ...new Set(booksData.map((book) => book.category))];
-console.log(allCategories);
-
 
 
 const Home = () => {

@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 // Components
 import Home from './pages/Home/Home';
 import Error from './pages/Error/Error';
-// import SingleBook from './pages/SingleBook/SingleBook';
+import SingleBook from './pages/SingleBook/SingleBook';
 
 
 const App = () => {
@@ -18,7 +18,7 @@ const App = () => {
       <Routes>
 
         <Route path='/' element={<Home />} />
-        {/* <Route path='/book/:id' element={<SingleBook />} /> */}
+        <Route path='/book/:bookId' element={<SingleBook />} />
         <Route path='*' element={<Error />} />
 
       </Routes>
